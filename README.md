@@ -10,5 +10,3 @@
 3. I'm not the worlds greatest coder. I'm more than likely going to be asking a ton of questions for most things i'm doing related to this, so don't question any code i've written
 
 4. Feel free to suggest literally anything, I'm not opposed to any form of help with this
-
-5. 
