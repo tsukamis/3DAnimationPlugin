@@ -1,5 +1,5 @@
 # 3DAnimationPlugin
-Quality of life improvements for a bunch of Animation related features
+**Quality of life improvements for a bunch of Animation related features**
 
 **Disclaimers** 
 
